@@ -1,8 +1,11 @@
+# Kawan Oliveira Amorim 562197
+# Alana Vieira Batista Rm563796
+
+
 Mapeador de Profissões para o Futuro do Trabalho
 Global Solution / Computational Thinking with Python / FIAP 2025
 
 Este projeto faz parte da avaliação da disciplina e tem como foco entender como as mudanças do mercado de trabalho impactam diferentes profissões, principalmente com o avanço da automação e da inteligência artificial.
-
 A ideia foi criar uma ferramenta simples, mas funcional, que faz a triagem de profissionais, avalia o risco de automação de cada profissão e indica caminhos de requalificação. No final, todos os dados são organizados em um DataFrame e viram um relatório.
 
 Objetivo do Projeto
